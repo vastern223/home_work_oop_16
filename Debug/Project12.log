@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project12.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+C:\Users\Kolotyuk\source\repos\Project12\Project12\Source.cpp(9,52): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Kolotyuk\source\repos\Project12\Project12\Source.cpp(18,52): warning C4305: аргумент: усечение из "double" в "float"
+  Project12.vcxproj -> C:\Users\Kolotyuk\source\repos\Project12\Debug\home_work_oop_16..exe
